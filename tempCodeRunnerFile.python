@@ -1,0 +1,16 @@
+import random
+
+
+
+
+player_score=0
+comp_score=0
+draw=0
+
+def game():
+    name=input("Your Name?")
+    
+    print("Welcome ,",name, "joshuaTo our rock paper scissor game hope you will enjoy it")
+
+    
+game()
